@@ -8,6 +8,8 @@ Based on the official IJCAI 2026 style.
 
 ## Files
 
+Download as zip: [![Download ZIP](https://img.shields.io/badge/Download-ZIP-green)](https://github.com/sure-wshop/sure-author-kit/archive/refs/heads/main.zip)
+
 | File | Description |
 |------|-------------|
 | `sure26.tex` | Author template — start here |
