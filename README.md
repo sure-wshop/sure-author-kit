@@ -1,14 +1,14 @@
 # SuRE Workshop @ IJCAI 2026 — Author Kit
 
 [![Workshop Website](https://img.shields.io/badge/SuRE%20Workshop-Website-blue)](https://sure-wshop.github.io/)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-green)](https://github.com/sure-wshop/sure-author-kit/archive/refs/heads/main.zip)
 
 LaTeX author kit for the [**SuRE Workshop** @ IJCAI 2026](https://sure-wshop.github.io/).
 Based on the official IJCAI 2026 style.
 
 ## Files
 
-Download as zip: [![Download ZIP](https://img.shields.io/badge/Download-ZIP-green)](https://github.com/sure-wshop/sure-author-kit/archive/refs/heads/main.zip)
+Download as zip: [click here](https://github.com/sure-wshop/sure-author-kit/archive/refs/heads/main.zip)
 
 | File | Description |
 |------|-------------|
