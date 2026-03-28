@@ -1,0 +1,27 @@
+# License
+
+## Base IJCAI Style (ijcai26.sty / sure26.sty)
+
+The base conference style originates from the IJCAI author kit, prepared by
+Peter F. Patel-Schneider, with contributions from Barbara Beeton and others.
+The preparation of these files was supported by Schlumberger Palo Alto Research,
+AT&T Bell Laboratories, AAAI, and Morgan Kaufmann Publishers.
+
+The following notice applies to the base style and must be retained in any
+further modification or redistribution:
+
+> These instructions can be modified and used in other conferences as long
+> as credit to the authors and supporting agencies is retained, this notice
+> is not changed, and further modification or reuse is not restricted.
+
+## SuRE Workshop Extensions
+
+The SuRE-specific additions to `sure26.sty` and the author template `sure26.tex`
+are licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0).
+
+You are free to share and adapt this material for any purpose, provided that
+appropriate credit is given to the SuRE Workshop organizers and a link to the
+license is included.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/
